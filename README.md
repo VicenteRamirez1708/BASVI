@@ -1,6 +1,6 @@
-# basvi
+# BASVI
 
-app de vinos y licores
+App de vinos y licores
 
 ## Getting Started
 
